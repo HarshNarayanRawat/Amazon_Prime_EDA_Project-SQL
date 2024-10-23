@@ -4,7 +4,7 @@
 
 
 ## Overview
-This project involves a comprehensive analysis of Amazon Prime's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
+This project involves a comprehensive analysis of Amazon Prime Video's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset.
 
 ## Objectives
 - Analyze the distribution of content types (Movies vs TV Shows).
@@ -17,13 +17,13 @@ This project involves a comprehensive analysis of Amazon Prime's movies and TV s
 - Count the number of Movies vs TV Show.
 - Find the most common rating for movies and TV shows.
 - List all movies released in a specific year (e.g., 2020).
-- Find the top 5 countries with the most content on Amazon Prime.
+- Find the top 5 countries with the most content on Amazon Prime Video.
 - Identify the longest movie.
 - Find content added in the last 5 years.
 - Find all the movies/TV shows by director 'Yash Chopra'.
 - List all TV shows with more than 5 seasons.
 - Count the number of content items in each genre.
-- Find each year and the average numbers of content release in India on Amazon Prime and return top 5 year with highest avg content release.
+- Find each year and the average numbers of content release in India on Amazon Prime Video and return top 5 year with highest avg content release.
 - List all movies that are documentaries.
 - Find all content without a director.
 - Find how many movies actor 'Salman Khan' appeared in last 10 years.
@@ -36,7 +36,7 @@ content as 'Non-Voilent'. Counted how many items fall into each category.
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 - **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
 - **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Amazon Prime.
+- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Amazon Prime Video.
 
 ## Conclusion
-This analysis provides a comprehensive view of Amazon Prime's content and can help inform content strategy and decision-making.
+This analysis provides a comprehensive view of Amazon Prime Video's content and can help inform content strategy and decision-making.
