@@ -1,4 +1,4 @@
-# Amazon_Prime_EDA_Project-SQL
+# Amazon_Prime_Video_EDA_Project-SQL
 
 ![Amazon-Prime-Video-Emblem](https://github.com/user-attachments/assets/529f565d-2d50-4b1f-8a79-c7330cfef7e8)
 
